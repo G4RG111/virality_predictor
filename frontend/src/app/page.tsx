@@ -110,7 +110,7 @@ export default function LandingPage() {
                 lineHeight: 1.6,
               }}
             >
-              VIBE scores products on virality before they ship — using iHUT data,
+              VIBE scores (Viral Impact &amp; Buzz Estimation scores) products on virality before they ship — using iHUT data,
               Amazon reviews, and AI signal detection to find the next Ninja Creami.
             </p>
 
