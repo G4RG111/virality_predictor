@@ -8,7 +8,6 @@ import { cn } from "@/lib/utils";
 const CENTER_LINKS = [
   { href: "/products", label: "Portfolio" },
   { href: "/analyze",  label: "Analyze"   },
-  { href: "/trends",   label: "Trends"    },
 ];
 
 export function TopNav() {

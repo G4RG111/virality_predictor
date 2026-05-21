@@ -55,7 +55,7 @@ export default function LandingPage() {
           </span>
           <span style={{ color: "#D0D0D0" }}>·</span>
           <span style={{ fontSize: "11px", fontWeight: 500, color: "#A0A0A0", letterSpacing: "0.05em" }}>
-            SharkNinja Intelligence
+            Viral Impact &amp; Buzz Estimation
           </span>
         </div>
         <Link
@@ -425,7 +425,7 @@ export default function LandingPage() {
         className="px-10 py-6 flex items-center justify-between max-w-7xl mx-auto"
         style={{ borderTop: "1px solid #E8E8E8" }}
       >
-        <span style={{ fontSize: "11px", color: "#A0A0A0" }}>VIBE · SharkNinja Intelligence · Phase 1 v1.0</span>
+        <span style={{ fontSize: "11px", color: "#A0A0A0" }}>VIBE · Viral Impact &amp; Buzz Estimation · Phase 1 v1.0</span>
         <span style={{ display: "flex", alignItems: "center", gap: "8px", fontSize: "11px", color: "#A0A0A0" }}>
           <span style={{ width: "6px", height: "6px", borderRadius: "50%", background: "#22C55E", display: "inline-block" }} />
           All systems operational
